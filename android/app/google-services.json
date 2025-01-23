@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797983722359",
+    "project_id": "glam-478d7",
+    "storage_bucket": "glam-478d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797983722359:android:6f6390d1e5d84bac9cef72",
+        "android_client_info": {
+          "package_name": "com.example.salon_glam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt6aFgs-KL0qYGz73gg2QkrfJH8-KQ5sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
